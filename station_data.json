@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Light FM",
+        "description": "Ghana's Most Educative, Media Station - Light FM",
+        "streamUrl": "https://stream-162.zeno.fm/xua5q9hfgg0uv",
+        "facebookUrl": "https://m.facebook.com/LIGHTFM949",
+        "instagramUrl": "https://m.instagram.com/lightfm",
+        "tiktokUrl": "https://m.tiktok.com/@lightfm",
+        "xUrl": "https://m.x.com/lightfm",
+        "logoURL": "https://raw.githubusercontent.com/vision1fmgh/Files/refs/heads/main/GridLightF.jpeg",
+        "youtubeUrl": "https://m.youtube.com/@LightTVGh"
+    },
+    {
+        "name": "Light TV",
+        "description": "Ghana's Most Educative, Media Station - Light TV ",
+        "streamUrl": "https://stream-162.zeno.fm/xua5q9hfgg0uv",
+        "facebookUrl": "https://m.facebook.com/lighttv",
+        "instagramUrl": "https://m.instagram.com/lighttv",
+        "tiktokUrl": "https://m.tiktok.com/@lighttv",
+        "xUrl": "https://m.x.com/lighttv",
+        "logoURL": "https://raw.githubusercontent.com/vision1fmgh/Files/refs/heads/main/GridLightT.jpeg",
+        "youtubeUrl": "https://m.youtube.com/@LightTVGh"
+    },
+    {
+        "name": "Vision1 FM",
+        "description": "Ghana's Most Educative, Media Station - Vision1 FM",
+        "streamUrl": "https://stream-162.zeno.fm/xua5q9hfgg0uv",
+        "facebookUrl": "https://m.facebook.com/vision1fm",
+        "instagramUrl": "https://m.instagram.com/vision1fm",
+        "tiktokUrl": "https://m.tiktok.com/@vision1fm",
+        "xUrl": "https://m.x.com/vision1fm",
+        "logoURL": "https://raw.githubusercontent.com/vision1fmgh/Files/refs/heads/main/grid%20vision1.jpg",
+        "youtubeUrl": "https://m.youtube.com/@Vision1FMOfficial"
+    },
+    {
+        "name": "Bechem FM",
+        "description": "Ghana's Most Educative, Media Station - Bechem FM",
+        "streamUrl": "https://stream-162.zeno.fm/xua5q9hfgg0uv",
+        "facebookUrl": "https://m.facebook.com/vision1fm",
+        "instagramUrl": "https://m.instagram.com/vision1fm",
+        "tiktokUrl": "https://m.tiktok.com/@vision1fm",
+        "xUrl": "https://m.x.com/vision1fm",
+        "logoURL": "https://raw.githubusercontent.com/vision1fmgh/Files/refs/heads/main/GridBeche.jpeg",
+        "youtubeUrl": "https://m.youtube.com/@LightTVGh"
+    }
+]
